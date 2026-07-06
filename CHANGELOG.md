@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 aims to follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html) once the first release is
 tagged. Until then, source builds report the version `dev`.
 
+## [0.3.0](https://github.com/Gitlawb/zero/compare/v0.2.0...v0.3.0) (2026-07-06)
+
+
+### Features
+
+* **tui:** show CLI version on the startup home screen ([#538](https://github.com/Gitlawb/zero/issues/538)) ([fd69233](https://github.com/Gitlawb/zero/commit/fd69233e334f1823a06b5794085a9255b3abdfa8))
+
+
+### Bug Fixes
+
+* **agent:** keep tools exposed for max-turn finalization ([#533](https://github.com/Gitlawb/zero/issues/533)) ([3f0503b](https://github.com/Gitlawb/zero/commit/3f0503bc2312ae29d5ade784d8824dc9a3524958))
+
 ## [0.2.0](https://github.com/Gitlawb/zero/compare/v0.1.0...v0.2.0) (2026-07-06)
 
 
